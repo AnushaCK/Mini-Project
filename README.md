@@ -15,3 +15,7 @@ follow the same process again.
 ● In commercially available Notice Boards, thee connections require a PC and long
 lengths of wire for connections
 ● Wifi-Enabled Electronic Notice Board has been designed which eliminates use of paper as well as reduce manual work and time
+
+Website to input broadcast message:
+
+https://eee-notice-board.000webhostapp.com
